@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.hasibuzzaman.locationtest",
-    "sha256_cert_fingerprints":
-    ["C4:ED:C3:1C:C7:86:F8:6E:F5:19:0C:45:3F:16:37:5B:4F:71:AE:3A:A4:B4:11:D5:91:48:7D:63:CF:11:EE:78"]
-  }
-}]
